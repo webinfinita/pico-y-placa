@@ -1,0 +1,21 @@
+{
+    "name": "webinfinita/picoyplaca",
+    "description": "Example class 'Pico y placa'",
+    "require": {
+        "phpspec/phpspec": "^2.2"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+      "psr-0": {
+        "": "src"
+      }
+    },
+    "authors": [
+        {
+            "name": "Jorge Garcia",
+            "email": "jorge@webinfinita.com"
+        }
+    ]
+}
